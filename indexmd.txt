@@ -1,0 +1,38 @@
+# 岡本拓海のエンジニアポートフォリオ
+
+##Skils
+
+
+----
+##Private work
+###AOSN Workshop
+情報科学やプログラミングに関しての本の読書会をしています。
+![aosn](http://mrbearing.github.io/img/aosn.png)![java8](http://mrbearing.github.io/img/aosn-java8.png)
+
+### RICOH & Java Developer Challenge 2011  [link](http://www.tasktoys.com/about-nuimagio)
+メンバー:　Y.Kato, A.Sako, Y.Sato, T.Takao, K.Tomura and T.Yanagisawa
+
+グランプリ(最優秀賞)受賞.
+
+[ ![jrdc](http://mrbearing.github.io/img/rjdc11.png) ](http://jp.ricoh.com/release/2012/0113_2.html)[ ![jrdc-j](http://mrbearing.github.io/img/rjdc11-jaist.png) ](http://www.jaist.ac.jp/news/award/2012/ricohjava-developer-challenge-2011.html)
+
+###Tokyo Metro Open Data Contest (2014/12)
+東京メトロオープンデータコンテストに応募した作品です。
+
+Member: Y.Kato and T.Namikawa)
+作品"John Metro"は下記リンクで稼働中です
+[http://apps.tasktoys.com/johnmetro](http://apps.tasktoys.com/johnmetro)
+
+![](http://mrbearing.github.io/img/johnmetro.png) ![](http://mrbearing.github.io/img/tmod.png)
+
+###GUGEN2014
+
+
+----
+##Academic works
+Younes El Hamdi , Takumi Okamoto, Nak Young Chong, Il Hong Suh,"Developing a Bayesian Framework for Human Behavior Tracking ",The 26th Annual Conference of the Japanese Society for Artificial Intelligence, 2012 [PDF](https://kaigi.org/jsai/webprogram/2012/pdf/717.pdf)
+
+----
+##Academic career
+2007 [名城大学](http://www.meijo-u.ac.jp/) 理工学部機械システム工学科卒業
+2013 [北陸先端科学技術大学院大学 情報科学研究科](http://www.jaist.ac.jp) 修了
