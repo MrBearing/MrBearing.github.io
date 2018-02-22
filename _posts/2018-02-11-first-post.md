@@ -8,9 +8,7 @@ icon: fa-lightbulb-o
 # ブログ移行しました。
 
 前々から、やろうと思っていたブログ移行をこの度決行しました。
-
 旧ブログのデータは残したままにしておきますが、今後はGithubPagesを使用してブログ更新をしていこうと思います。
-https://mrbearing.blogspot.jp/
 
 Bloggerから移行の理由としては
 
@@ -24,3 +22,4 @@ Bloggerから移行の理由としては
 近年、更新をさぼりまくってたので技術関係の事柄をメモするつもりで書いていく予定です。
 このブログの更新しまくれば、まるで草の生えまくったエンジニアであるかのように見えるはず。
 
+旧ブログ：[https://mrbearing.blogspot.jp/](https://mrbearing.blogspot.jp/)
