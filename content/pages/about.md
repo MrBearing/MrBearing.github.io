@@ -37,7 +37,7 @@ CADはもっぱらFusion360を使用しています。ちょっとしたCAEや�
 + ROS/ROS 2
   + Noetic, Foxy, Humble
 
-### Embedded 
+### Embedded
 
 + mbed
 + arduino
