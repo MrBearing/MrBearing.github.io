@@ -1,0 +1,45 @@
+# The URL the site will be built for
+base_url = "https://mrbearing.github.io"
+
+theme = "terminimal"
+taxonomies = [{ name = "tags" }]
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+render_emoji = true
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+[extra]
+show_twitter = true
+# for terminal theme setting 
+logo_text = "Takumi Okamoto's 技術ブログ"
+accent_color = "green"
+background_color = "dark"
+# copyright_html = "&copy; Takumi Okamoto. All rights reserved"
+favicon = "/favicon.ico"
+# menu is enabled by adding menu_items (optional)
+enable_post_view_navigation = true
+menu_items = [
+    # each of these is optional, name and url are required
+    # $BASE_URL is going to be substituted by base_url from configuration
+    { name = "blog", url = "$BASE_URL" },
+    { name = "about me", url = "$BASE_URL/about" },
+    { name = "Projects", url = "$BASE_URL/projects" },
+    { name = "Archive", url = "$BASE_URL/archive" },
+    { name = "Doing List", url = "$BASE_URL/list" },
+
+    # tags should only be enabled if you have "tags" taxonomy
+    # see documentation below for more details
+    { name = "tags", url = "$BASE_URL/tags" },
+    # set newtab to true to make the link open in new tab
+    { name = "github", url = "https://github.com/MrBearing", newtab = true },
+]
+##
