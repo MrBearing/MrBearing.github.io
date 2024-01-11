@@ -1,4 +1,4 @@
-# MrBEaring.github.io
+# MrBearing.github.io
 
 自分の技術ブログ
 
